@@ -77,7 +77,7 @@ content | TNode | - | Typescript：`string \| TNode`。[see more ts definition](
 disabled | Boolean | false | \- | N
 label | String | - | \- | N
 title | String | - | \- | N
-value | String / Number | - | \- | N
+value | String / Number / Boolean | - | \- | N
 
 
 ### OptionGroup Props
